@@ -2,3 +2,6 @@ some changes
 another change
 even more changes!
 this is a remote change
+Changes coming from someone else
+features finished
+already merged
